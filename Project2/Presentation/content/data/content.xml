@@ -1,0 +1,1493 @@
+<zuiprezi>
+  <version>11</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-21352.99695877238" y="-12392.694725422703" width="42705.99391754476" height="24785.389450845407"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="16_103622371" type="button" x="-13213.7" y="-8283.05" r="0" s="3.8724018672853746" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>942.5250396313932</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="37_24309637" type="shape" x="405.7620469345688" y="-4965.659736623858" r="90.0000000000001" s="7.258659969933824" class="line1">
+      <geom type="line">
+        <sp>131.51625131984056 0</sp>
+        <ep>-131.5162513198406 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="30_24309637" type="shape" x="4433.977881330051" y="-2360.5258946302206" r="177.30802248277772" s="7.258659969933822" class="line1">
+      <geom type="line">
+        <sp>204.74027944216857 0</sp>
+        <ep>-204.74027944216851 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="60_24309637" type="shape" x="-3610.810138959115" y="-2410.5964743166323" r="2.665136964131694" s="7.258659969933822" class="line1">
+      <geom type="line">
+        <sp>-194.77875286213543 0</sp>
+        <ep>194.77875286213543 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="114_24309637" type="button" x="1.5179752540028605e-12" y="-6.445659758980078e-13" r="0" s="46.25865892281711" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>923.8363461640572</w>
+        <h>536.4776287684992</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="61_24309637" type="shape" x="3583.1277511478756" y="397.58658347993" r="37.40168139112283" s="9.571236663975114" class="line1">
+      <geom type="line">
+        <sp>187.5201461079301 0</sp>
+        <ep>-187.52014610793003 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="76_24309637" type="shape" x="-2546.772548402239" y="310.37646210449674" r="142.99876075947813" s="7.847440398089867" class="line1">
+      <geom type="line">
+        <sp>229.10332373528627 0</sp>
+        <ep>-229.10332373528627 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="47_24309637" type="button" x="-13081.65" y="3187.35" r="0" s="3.878383526963825" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>942.5250396313932</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="50_24309637" type="text" x="-13085.21222743504" y="2216.695830087402" r="-2.928433401193431e-30" s="7.757791751049696" class="strong strong-background">
+      <height>29.16</height>
+      <width>454.10576459295976</width>
+      <p>
+        <text><![CDATA[Twitter Analysis]]></text>
+      </p>
+    </object>
+    <object id="51_24309637" type="image" x="-13165.72799094842" y="3092.328852058466" r="-5.151391751237183e-16" s="1.8491392703031653">
+      <source w="777" h="743">2829039130<url>2829039130.PNG</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/e/d/2/bb5aaa0f47396f7446c4a3cced531608dd828.PNG</sourceUrl>
+      <meta>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="image"/>
+      </layout>
+    <resource><id>2829039130</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/d/2/bb5aaa0f47396f7446c4a3cced531608dd828.PNG</url></resource></object>
+    <object id="53_24309637" type="button" x="4562.555679390249" y="2635.696650098231" r="0" s="3.5912773929265684" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>942.5250396313932</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="47_103622371" type="image" x="4572.9" y="2812.65" r="0" s="3.721491554784977">
+      <source w="760" h="417">2828921641<url>2828921641.PNG</url></source>
+      <sourceUrl>katy.PNG</sourceUrl>
+    <resource><id>2828921641</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/b/b/e57dd5dfdd22907abbc6bf62c0b13e56ca9e0.PNG</url></resource></object>
+    <object id="55_24309637" type="text" x="4504.5" y="1953.1" r="-3.6863195522332635e-16" s="3.705006244526846" class="head">
+      <height>29.16</height>
+      <width>254.95401025673192</width>
+      <p indent="1">
+        <text><![CDATA[Experimental Results]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="56_24309637" type="text" x="4563.124303108863" y="1729.5921887320255" r="-2.928433401193429e-30" s="7.162770932816618" class="strong strong-background">
+      <height>29.16</height>
+      <width>454.10576459295976</width>
+      <p>
+        <text><![CDATA[Prediction Service Analysis]]></text>
+      </p>
+    </object>
+    <object id="4_24309637" type="text" x="247.3723677173909" y="6445.108139455951" r="-2.9284334011934345e-30" s="104.5891868990502" class="head">
+      <height>29.16</height>
+      <width>396.19250859336614</width>
+      <p align="center">
+        <text><![CDATA[Personal Social Media Analysis Tool]]></text>
+      </p>
+    </object>
+    <object id="5_24309637" type="text" x="34.02699957632707" y="8561.437991950746" r="-2.9284334011934314e-30" s="37.3096415870291" class="strong strong-background">
+      <height>29.16</height>
+      <width>555.949258622854</width>
+      <p align="center">
+        <text><![CDATA[Analyze yours with us today!]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="65_24309637" type="button" x="8128.784986270787" y="-2345.2703275253575" r="0" s="4.70082249567554" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>942.5250396313932</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="70_24309637" type="button" x="399.82221706331774" y="-2343.9459997692375" r="0" s="5.256249261160408" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>954.4936224489796</w>
+        <h>612</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="69_24309637" type="image" x="8049.397168126912" y="-2785.433834883689" r="-5.151391751237184e-16" s="4.47945944136041">
+      <source w="370" h="204">2828569978<url>2828569978.png</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/b/5/1/7646e2d55d9b1eff2c18861859d9838d03bd0.png</sourceUrl>
+      <meta>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="image"/>
+      </layout>
+    <resource><id>2828569978</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/5/1/7646e2d55d9b1eff2c18861859d9838d03bd0.png</url></resource></object>
+    <object id="68_24309637" type="text" x="8124.235215657919" y="-3521.6191363040675" r="-2.9284334011934345e-30" s="9.44271784867066" class="strong strong-background">
+      <height>29.16</height>
+      <width>454.10576459295976</width>
+      <p>
+        <text><![CDATA[Prediction Service Analysis]]></text>
+      </p>
+    </object>
+    <object id="74_24309637" type="image" x="296.36644168840013" y="-2691.6389644172395" r="-5.151391751237181e-16" s="8.671367839491214">
+      <source w="300" h="168">2330481028<mask x="69" y="0" w="161" h="168"/>
+      <url>2330481028.png</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/a/c/6/5cac0a40b47abcae349bcddea87c231faa9b6.png</sourceUrl>
+      <meta>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="image"/>
+      </layout>
+    <resource><id>2330481028</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/c/6/5cac0a40b47abcae349bcddea87c231faa9b6.png</url></resource></object>
+    <object id="72_24309637" type="text" x="399.8356049654923" y="-1422.1551514798027" r="-3.6863195522332635e-16" s="5.942491778586282" class="body">
+      <height>165.5859375</height>
+      <width>672.2492586228541</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Review]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[PERSMA 2.0]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Integration of Facebook]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Graphical analysis beyond one Social network ]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Prediction Services]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Summary]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="73_24309637" type="text" x="400.3474278538047" y="-3682.6130224907847" r="-2.928433401193429e-30" s="10.529345634424574" class="strong strong-background">
+      <height>29.16</height>
+      <width>454.10576459295976</width>
+      <p>
+        <text><![CDATA[Welcome Back.. ]]></text>
+      </p>
+    </object>
+    <object id="0_103622371" type="text" x="-13095.692083335463" y="3936.0158740683055" r="0" s="4.379071198253797" class="body">
+      <height>82.79296875</height>
+      <width>605.8775567034943</width>
+      <p>
+        <text weight="bold"><![CDATA[Circle Packing]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Analyze influential people in your followers]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Hierarchical representation of followers at distance n. ]]></text>
+      </p>
+    </object>
+    <object id="6_103622371" type="button" x="-13213.7" y="-4360.55" r="0" s="3.8149339675185314" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>942.5250396313932</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="8_103622371" type="image" x="-13277.075047488948" y="-4525.405288963359" r="-5.151391751237182e-16" s="2.188697846216509">
+      <source w="648" h="645">2829019492<url>2829019492.PNG</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/6/5/4/147cbfc3a5bf641b95def3ba85a1f50707fb3.PNG</sourceUrl>
+      <meta>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="image"/>
+      </layout>
+    <resource><id>2829019492</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/5/4/147cbfc3a5bf641b95def3ba85a1f50707fb3.PNG</url></resource></object>
+    <object id="7_103622371" type="text" x="-13217.203950124447" y="-5319.612196435356" r="-2.9284334011934314e-30" s="7.630875868324248" class="strong strong-background">
+      <height>29.16</height>
+      <width>454.10576459295976</width>
+      <p>
+        <text><![CDATA[Facebook Analysis]]></text>
+      </p>
+    </object>
+    <object id="9_103622371" type="text" x="-13288.096435776164" y="-3570.218319553957" r="0" s="4.307430491145519" class="body">
+      <height>110.390625</height>
+      <width>530.5212463203565</width>
+      <p>
+        <text weight="bold"><![CDATA[Mutual Friends]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Similar to twitter mutual followers ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Connectivity between friends]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Friends only who have authorized PERSMA]]></text>
+      </p>
+    </object>
+    <object id="11_103622371" type="button" x="-13125.65" y="-600.9" r="0" s="3.8714172406580847" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>942.5250396313932</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="12_103622371" type="text" x="-13129.20582902291" y="-1574.161910627085" r="-2.9284334011934328e-30" s="7.743857337894726" class="strong strong-background">
+      <height>29.16</height>
+      <width>454.10576459295976</width>
+      <p>
+        <text><![CDATA[Intersection Analysis ]]></text>
+      </p>
+    </object>
+    <object id="13_103622371" type="image" x="-13066.799960573424" y="-748.1224378389194" r="-5.151391751237185e-16" s="2.0581992701870626">
+      <source w="743" h="609">2829021880<url>2829021880.PNG</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/b/1/6/1961d604cd3912380ff16d6609ad752415239.PNG</sourceUrl>
+      <meta>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="image"/>
+      </layout>
+    <resource><id>2829021880</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/1/6/1961d604cd3912380ff16d6609ad752415239.PNG</url></resource></object>
+    <object id="14_103622371" type="text" x="-12997.694759843822" y="105.1857120497972" r="0" s="4.371205585297217" class="body">
+      <height>110.390625</height>
+      <width>671.3324930072552</width>
+      <p>
+        <text weight="bold"><![CDATA[Venn Diagram]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Number of common Facebook friends and Twitter followers]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Total number of twitter followers]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Total number of facebook friends]]></text>
+      </p>
+    </object>
+    <object id="17_103622371" type="text" x="-13217.256733385257" y="-9256.559442611611" r="-2.9284334011934296e-30" s="7.745826851294826" class="strong strong-background">
+      <height>29.16</height>
+      <width>454.10576459295976</width>
+      <p>
+        <text><![CDATA[PERSMA 2.0]]></text>
+      </p>
+    </object>
+    <object id="39_103622371" type="button" x="15326.288008129894" y="-8019.964963962641" r="0" s="3.459779168761466" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>942.5250396313932</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="40_103622371" type="image" x="15237.202155881168" y="-8320.980518065597" r="-5.151391751237181e-16" s="4.594388242638346">
+      <source w="220" h="220">2828597713<mask x="26" y="28" w="181" h="158"/>
+      <url>2828597713.png</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/1/d/c/757d7f210a481179e55240ed742c5d15d644b.png</sourceUrl>
+      <meta>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="image"/>
+      </layout>
+    <resource><id>2828597713</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/d/c/757d7f210a481179e55240ed742c5d15d644b.png</url></resource></object>
+    <object id="34_103622371" type="image" x="8122.059287090052" y="-1294.976582355241" r="0" s="6.168932880140607">
+      <source w="233" h="65">2828905585<url>2828905585.PNG</url></source>
+      <sourceUrl>linear.PNG</sourceUrl>
+    <resource><id>2828905585</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/3/b/907b19a930fd0673908721a074c53d844fc2d.PNG</url></resource></object>
+    <object id="44_103622371" type="image" x="15287.958318910152" y="-7251.313321096493" r="0" s="4.281501926599715">
+      <source w="470" h="57">2828905678<url>2828905678.PNG</url></source>
+      <sourceUrl>binomial.PNG</sourceUrl>
+    <resource><id>2828905678</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/3/4/a0e0edf782a3640024914bb95535d412d3e16.PNG</url></resource></object>
+    <object id="41_103622371" type="text" x="15324.226248835716" y="-7660.424408794693" r="-3.686319552233265e-16" s="3.5756065021869152" class="body">
+      <height>137.98828125</height>
+      <width>719.3611714949423</width>
+      <p align="justify">
+        <text weight="bold"><![CDATA[Polynomial Regression]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Type of Linear regression but fits a nonlinear relationship]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Relationship between the independent variable and the dependent variable is modeled as an nth degree polynomial]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[BEWARE of Over fitting]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="42_103622371" type="text" x="15326.824653518484" y="-8885.674664977443" r="-2.9284334011934345e-30" s="6.949787731695231" class="strong strong-background">
+      <height>29.16</height>
+      <width>454.10576459295976</width>
+      <p>
+        <text><![CDATA[Prediction Service Analysis]]></text>
+      </p>
+    </object>
+    <object id="43_103622371" type="button" x="15325.766664772287" y="-669.7344403472622" r="0" s="3.459779168761466" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>942.5250396313932</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="45_103622371" type="text" x="15302.226697808768" y="-554.5677330895735" r="-3.686319552233265e-16" s="3.784988549569907" class="body">
+      <height>413.96484375</height>
+      <width>800.5841065743394</width>
+      <p align="justify">
+        <text weight="bold"><![CDATA[Data Collection for Modeling]]></text>
+      </p>
+      <p align="justify">
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[Historical Average Retweet Count]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Get retweet count for each Tweet on user timeline]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Average retweet count over a defined time step]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[TimeStamp of Tweet]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[TimeStamp for each tweet was extracted]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Divided in two groups - Day and Night]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[Historical Followers Count]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Not provided by Twitter APIs]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Twitter Counter ( http://twittercounter.com ) provides follower count for last 6 months for famous Celebrities.]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Data Extracted for 5 Celebrities]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="46_103622371" type="text" x="15326.30331016089" y="-1539.295044278443" r="-2.9284334011934328e-30" s="6.949787731695231" class="strong strong-background">
+      <height>29.16</height>
+      <width>454.10576459295976</width>
+      <p>
+        <text><![CDATA[Prediction Service Analysis]]></text>
+      </p>
+    </object>
+    <object id="48_103622371" type="button" x="15325.94405131461" y="-4421.310165957993" r="0" s="3.459779168761466" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>942.5250396313932</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="51_103622371" type="text" x="15322.819182454856" y="-5290.870769889173" r="-2.9284334011934345e-30" s="6.949787731695231" class="strong strong-background">
+      <height>29.16</height>
+      <width>454.10576459295976</width>
+      <p>
+        <text><![CDATA[Prediction Service Analysis]]></text>
+      </p>
+    </object>
+    <object id="52_103622371" type="button" x="15326.712256850522" y="2981.177745661028" r="0" s="3.459779168761466" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>942.5250396313932</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="54_103622371" type="text" x="15264.930791399638" y="3150.8168495382324" r="-3.686319552233265e-16" s="3.933167152405607" class="body">
+      <height>413.96484375</height>
+      <width>738.9660968418126</width>
+      <p align="justify">
+        <text weight="bold"><![CDATA[Feature Space Experiment]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Retweets]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[Include/Exclude Retweets]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[Include/Exclude Replies]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[TimeStamp]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[6am to 6pm ]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[12am to 12pm]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Follower Count]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[Total number of followers]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[Change in the number of followers ]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[Rate of change of number of followers]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Time gap in data points]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[1 day  ]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[1 week]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[2 week ]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="55_103622371" type="text" x="15327.248902239116" y="2111.6171417298488" r="-2.9284334011934345e-30" s="6.949787731695231" class="strong strong-background">
+      <height>29.16</height>
+      <width>454.10576459295976</width>
+      <p>
+        <text><![CDATA[Prediction Service Analysis]]></text>
+      </p>
+    </object>
+    <object id="1_103622371" type="shape" x="-10118.29207607873" y="-5779.3455183454535" r="-119.99999999999999" s="7.847440398089858" class="line1">
+      <geom type="line">
+        <sp>329.5285429019819 0</sp>
+        <ep>-329.5285429019819 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="2_103622371" type="shape" x="-10076.008823832604" y="-3549.7737413848135" r="-148.22155767028391" s="7.847440398089861" class="line1">
+      <geom type="line">
+        <sp>188.52426723128212 0</sp>
+        <ep>-188.52426723128212 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="3_103622371" type="shape" x="-10044.913020501746" y="-1179.582509721528" r="151.92328303244466" s="7.847440398089862" class="line1">
+      <geom type="line">
+        <sp>175.40070679635048 0</sp>
+        <ep>-175.4007067963505 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="4_103622371" type="shape" x="-10019.583778644224" y="1056.1789961690113" r="117.96288248222633" s="7.847440398089865" class="line1">
+      <geom type="line">
+        <sp>328.95013243941514 0</sp>
+        <ep>-328.95013243941514 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="5_103622371" type="shape" x="11997.650915251354" y="-3694.4204715065953" r="-28.07671696755537" s="7.847440398089863" class="line1">
+      <geom type="line">
+        <sp>-236.182293843644 0</sp>
+        <ep>236.18229384364395 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="10_103622371" type="shape" x="12013.24058116928" y="1075.727004080525" r="-130.17565888731258" s="7.847440398089853" class="line1">
+      <geom type="line">
+        <sp>329.4611222414685 0</sp>
+        <ep>-329.4611222414685 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="15_103622371" type="shape" x="12022.742076631484" y="-1329.878892487343" r="-155.92450174492132" s="7.847440398089863" class="line1">
+      <geom type="line">
+        <sp>226.64919585282033 0</sp>
+        <ep>-226.64919585282036 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="20_103622371" type="shape" x="12002.011541077578" y="-5869.866178792823" r="-52.47929696976308" s="7.847440398089862" class="line1">
+      <geom type="line">
+        <sp>-337.2339830754521 0</sp>
+        <ep>337.2339830754521 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="21_103622371" type="button" x="6229.4" y="-9652.2" r="0" s="2.849429784279123" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>942.5250396313932</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="22_103622371" type="text" x="6229.851163522776" y="-10371.131109295638" r="-2.928433401193431e-30" s="5.741482749380403" class="strong strong-background">
+      <height>29.16</height>
+      <width>454.10576459295976</width>
+      <p>
+        <text><![CDATA[PERSMA]]></text>
+      </p>
+    </object>
+    <object id="24_103622371" type="text" x="6221.2" y="-9861.482750587513" r="0" s="3.5650090650665955" class="body">
+      <height>137.98828125</height>
+      <width>703.3963640757197</width>
+      <p>
+        <text weight="bold"><![CDATA[Plans for PERSMA]]></text>
+      </p>
+      <p>
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Overcome rate limits by running service continuously for sometime and generating reports ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Create prediction service for individual users]]></text>
+      </p>
+    </object>
+    <object id="31_103622371" type="button" x="-4248.303471437426" y="2634.838279030892" r="0" s="3.8094598239748345" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>942.5250396313932</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="38_103622371" type="image" x="-4326.0159548810625" y="2875.20406352451" r="0" s="2.741940783250965">
+      <source w="820" h="622">2357232733<url>2357232733.JPG</url></source>
+      <sourceUrl>arch.JPG</sourceUrl>
+    <resource><id>2357232733</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/f/e/f3ee4a33c3be144d2b51a2b5a5591374a087d.JPG</url></resource></object>
+    <object id="32_103622371" type="text" x="-4243.474060402952" y="1673.6907888364522" r="-2.9284334011934303e-30" s="7.675903433199566" class="strong strong-background">
+      <height>29.16</height>
+      <width>454.10576459295976</width>
+      <p>
+        <text><![CDATA[Review]]></text>
+      </p>
+    </object>
+    <object id="35_103622371" type="button" x="400.2335295676847" y="-6571.26108752555" r="0" s="2.849429784279123" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>942.5250396313932</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="36_103622371" type="text" x="408.0190694036175" y="-7288.361891866767" r="-2.928433401193431e-30" s="5.741482749380403" class="strong strong-background">
+      <height>29.16</height>
+      <width>454.10576459295976</width>
+      <p>
+        <text><![CDATA[PERSMA - Demo]]></text>
+      </p>
+    </object>
+    <object id="37_103622371" type="text" x="385.7737151309683" y="-6499.8166345437885" r="0" s="3.5650090650665955" class="body">
+      <height>137.98828125</height>
+      <width>719.504677756843</width>
+      <p align="center">
+        <text><![CDATA[DEMO]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[http://tinyurl.com/persma]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[http://ec2-54-69-234-8.us-west-2.compute.amazonaws.com/persma/index.php]]></text>
+      </p>
+    </object>
+    <object id="23_103622371" type="shape" x="-2716.990130388918" y="-8297.84691889065" r="-155.92450174492132" s="7.847440398089862" class="line1">
+      <geom type="line">
+        <sp>252.75939107903025 0</sp>
+        <ep>-252.75939107903025 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="29_103622371" type="button" x="-5815.5" y="-9652.2" r="0" s="2.849429784279123" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>942.5250396313932</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="33_103622371" type="text" x="-5852.929036202083" y="-9783.927627153063" r="0" s="5.741482749380409" class="body">
+      <height>110.390625</height>
+      <width>243.5841025948957</width>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="center">
+        <text weight="bold"><![CDATA[THANK YOU :)]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="69_103622371" type="shape" x="3345.85" y="-8250.05" r="151.92328303244463" s="7.847440398089858" class="line1">
+      <geom type="line">
+        <sp>222.2764192829559 0</sp>
+        <ep>-222.2764192829559 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="70_103622371" type="text" x="-5144.213060104299" y="1950.1527198888307" r="0" s="4.7661321154165845" class="body">
+      <height>27.59765625</height>
+      <width>-345.4453125</width>
+      <p>
+        <text><![CDATA[PERSMA - Architecture Diagram]]></text>
+      </p>
+    </object>
+    <object id="72_103622371" type="image" x="-13224.337330187043" y="-8493.176727166645" r="-2.9284334011934335e-30" s="2.52059393840089">
+      <source w="1365" h="420">2828378158<url>2828378158.PNG</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/9/9/b/4993ecb39a841daf52d2af5a711b5169f5ba3.PNG</sourceUrl>
+      <meta>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="image"/>
+      </layout>
+    <resource><id>2828378158</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/9/b/4993ecb39a841daf52d2af5a711b5169f5ba3.PNG</url></resource></object>
+    <object id="71_103622371" type="text" x="-13219.94982604461" y="-7596.989550102589" r="0" s="4.823925319593056" class="body">
+      <height>137.98828125</height>
+      <width>719.504677756843</width>
+      <p align="center">
+        <text weight="bold"><![CDATA[DEMO]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[http://tinyurl.com/persma]]></text>
+      </p>
+      <p>
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[http://ec2-54-69-234-8.us-west-2.compute.amazonaws.com/persma/index.php]]></text>
+      </p>
+    </object>
+    <object id="18_103622371" type="button" x="-6918.299181802674" y="-2342.0952299501223" r="0" s="3.872401867285376" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>942.5250396313932</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+    </object>
+    <object id="25_103622371" type="image" x="-6959.1755693166915" y="-2558.8189957194177" r="-2.9284334011934314e-30" s="6.839178764522184">
+      <source w="479" h="187">2828459998<mask x="0" y="0" w="479" h="160"/>
+      <url>2828459998.PNG</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/d/6/d/1838c91518c9f4529b885d517738d3b250cf6.PNG</sourceUrl>
+      <meta>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="image"/>
+      </layout>
+    <resource><id>2828459998</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/6/d/1838c91518c9f4529b885d517738d3b250cf6.PNG</url></resource></object>
+    <object id="19_103622371" type="text" x="-6921.855915187935" y="-3315.6046725617343" r="-2.928433401193431e-30" s="7.745826851294825" class="strong strong-background">
+      <height>29.16</height>
+      <width>454.10576459295976</width>
+      <p>
+        <text><![CDATA[PERSMA - Proof of Concept]]></text>
+      </p>
+    </object>
+    <object id="62_103622371" type="text" x="-6924.5490078472885" y="-1656.0347800527118" r="0" s="4.823925319593054" class="body">
+      <height>137.98828125</height>
+      <width>719.504677756843</width>
+      <p align="center">
+        <text weight="bold"><![CDATA[DEMO]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[http://tinyurl.com/599test]]></text>
+      </p>
+      <p>
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[http://ec2-54-69-234-8.us-west-2.compute.amazonaws.com/599/index.php]]></text>
+      </p>
+    </object>
+    <object id="67_103622371" type="text" x="7864.490698584744" y="-1875.9578862803264" r="0" s="5.330168054428076" class="body">
+      <height>137.98828125</height>
+      <width>633.9401093308752</width>
+      <p>
+        <text weight="bold"><![CDATA[Linear Regression]]></text>
+        <text><![CDATA[ ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Modeling the relationship between a dependent variable and one or more explanatory variables ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Generally used to fit a predictive model to an observed data set]]></text>
+      </p>
+    </object>
+    <object id="74_103622371" type="image" x="15262.9905795097" y="-4595.831677251574" r="-5.151391751237181e-16" s="1.0875322167432226">
+      <source w="1632" h="916">2828657995<url>2828657995.jpg</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/0/6/9/84ce90ac2efcef10397107087fc8ae9818543.jpg</sourceUrl>
+      <meta>
+        <parentTemplate>social-network</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="image"/>
+      </layout>
+    <resource><id>2828657995</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/6/9/84ce90ac2efcef10397107087fc8ae9818543.jpg</url></resource></object>
+    <object id="50_103622371" type="text" x="15239.948291567434" y="-3791.845216734576" r="-3.686319552233265e-16" s="3.933167152405607" class="body">
+      <height>165.5859375</height>
+      <width>660.0577401804935</width>
+      <p align="justify">
+        <text weight="bold"><![CDATA[Modeling]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Thanks to Duncan Watts!!]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Features that matter were used for modeling]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[Past Local Influence - Retweet Count]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[Number of followers ]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Experimented with Time of Tweet ]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="30_103622371" type="text" x="-5818.4" y="-10388.25" r="-2.928433401193431e-30" s="5.741482749380403" class="strong strong-background">
+      <height>29.16</height>
+      <width>454.10576459295976</width>
+      <p>
+        <text><![CDATA[PERSMA]]></text>
+      </p>
+    </object>
+  </zui-table>
+  <background>
+    <layer depth="6.415022798562128" fadescale="0.3429450009894135">
+      <object id="background1504768593" type="image" x="-995.9757084514132" y="-10923.478589946277" r="0" s="16.050632392242147">
+        <source w="3500" h="3500">1504768593<url>1504768593.png</url></source>
+        <sourceUrl>Comp 2_1.png</sourceUrl>
+      <resource><id>1504768593</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/6/9/2ebfe7572200299f76fbf005625236b733aa2.png</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="114_24309637"/>
+    </s>
+    <s>
+      <eagle o="70_24309637"/>
+    </s>
+    <s>
+      <eagle o="31_103622371"/>
+    </s>
+    <s>
+      <eagle o="18_103622371"/>
+    </s>
+    <s>
+      <eagle o="16_103622371"/>
+    </s>
+    <s>
+      <eagle o="6_103622371"/>
+    </s>
+    <s>
+      <eagle o="11_103622371"/>
+    </s>
+    <s>
+      <eagle o="47_24309637"/>
+    </s>
+    <s>
+      <eagle o="65_24309637"/>
+    </s>
+    <s>
+      <eagle o="39_103622371"/>
+    </s>
+    <s>
+      <eagle o="48_103622371"/>
+    </s>
+    <s>
+      <eagle o="43_103622371"/>
+    </s>
+    <s>
+      <eagle o="52_103622371"/>
+    </s>
+    <s>
+      <eagle o="53_24309637"/>
+    </s>
+    <s>
+      <eagle o="35_103622371"/>
+    </s>
+    <s>
+      <eagle o="21_103622371"/>
+    </s>
+    <s>
+      <eagle o="29_103622371"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Arimo-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Cabin-Bold.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Cabin-Regular.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Arimo-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Cabin-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Cabin-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Cabin;
+}
+
+.line1
+{
+	color: #004070;
+	gradEndColor: #004070;
+	gradStartColor: #004070;
+}
+
+.line2
+{
+	color: #99a9c8;
+	gradEndColor: #99a9c8;
+	gradStartColor: #99a9c8;
+}
+
+.line3
+{
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.line4
+{
+	color: #de6f47;
+	gradEndColor: #de6f47;
+	gradStartColor: #de6f47;
+}
+
+.line5
+{
+	color: #d8462e;
+	gradEndColor: #d8462e;
+	gradStartColor: #d8462e;
+}
+
+.poly1
+{
+	borderColor: #004070;
+	borderThickness: 0;
+	color: #abbdcb;
+	gradEndColor: #004070;
+	gradStartColor: #004070;
+}
+
+.poly2
+{
+	borderAlpha: 0;
+	borderColor: #99a9c8;
+	borderThickness: 0;
+	color: #abbdcb;
+	gradEndAlpha: 1;
+	gradEndColor: #99a9c8;
+	gradStartAlpha: 1;
+	gradStartColor: #99a9c8;
+}
+
+.poly3
+{
+	borderAlpha: 0;
+	borderColor: #fff;
+	borderThickness: 0;
+	color: #abbdcb;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+	thickness: 3;
+}
+
+.poly4
+{
+	borderAlpha: 0;
+	borderColor: #de6f47;
+	borderThickness: 0;
+	color: #abbdcb;
+	gradEndAlpha: 1;
+	gradEndColor: #de6f47;
+	gradStartAlpha: 1;
+	gradStartColor: #de6f47;
+}
+
+.poly5
+{
+	borderAlpha: 0;
+	borderColor: #d8462e;
+	borderThickness: 0;
+	color: #abbdcb;
+	gradEndAlpha: 1;
+	gradEndColor: #d8462e;
+	gradStartAlpha: 1;
+	gradStartColor: #d8462e;
+}
+
+Background
+{
+	gradEnd: #587c97;
+	gradStart: #fff;
+	gradType: radial;
+}
+
+Grid
+{
+	color: #818e99;
+}
+
+ZArrow
+{
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+}
+
+ZCircle
+{
+	borderAlpha: 1;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #000;
+}
+
+ZFrame.bracket
+{
+	gradEndAlpha: 1;
+	gradEndColor: #004070;
+	gradStartAlpha: 1;
+	gradStartColor: #004070;
+	padding: 1.03;
+	thickness: 4;
+}
+
+ZFrame.circle
+{
+	gradEndAlpha: 1;
+	gradEndColor: #004070;
+	gradStartAlpha: 1;
+	gradStartColor: #004070;
+	padding: 1.03;
+	thickness: 8;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 1;
+	borderColor: #004070;
+	borderThickness: 12;
+	gradEndAlpha: 1;
+	gradEndColor: #eee;
+	gradStartAlpha: 1;
+	gradStartColor: #eee;
+	padding: 1.03;
+	radius: 0;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+}
+
+ZLabel.body
+{
+	color: #484f54;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #f0f0f0;
+	background-padding: 4;
+}
+
+ZLabel.head
+{
+	color: #333;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 1;
+	background-color: #fff;
+	background-padding: 4;
+}
+
+ZLabel.strong
+{
+	color: #fff;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 1;
+	background-color: #004070;
+	background-padding: 8;
+}
+
+ZLine
+{
+	color: #333;
+	lockTintAlpha: 0;
+}
+
+ZMarker
+{
+	alpha: 0.3;
+	color: #d8462e;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 1;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+arrow
+{
+	borderColor: #fff;
+	borderThickness: -1;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+background
+{
+	gradEnd: #808080;
+	gradStart: #808080;
+}
+
+circle
+{
+	borderAlpha: 1;
+	lockTintAlpha: 0.6;
+	radius: 0;
+	thickness: 100;
+}
+
+frame.bracket
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #fff;
+	thickness: 7;
+}
+
+frame.circle
+{
+	borderColor: #999;
+	borderThickness: 0;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+frame.rectangle
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #000;
+	gradStartColor: #000;
+	radius: 0;
+}
+
+free-line
+{
+	color: #fff808;
+}
+
+free-marker
+{
+	alpha: 0.3;
+	color: #ffff0d;
+}
+
+grid
+{
+	color: #ddd;
+}
+
+line
+{
+	color: #fff808;
+}
+
+line-arrow.style1
+{
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+line-arrow.style2
+{
+	color: #c5c3c3;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #c5c3c3;
+}
+
+line-arrow.style3
+{
+	color: #fff808;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+line-arrow.style4
+{
+	color: #333;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+line-arrow.style5
+{
+	color: #000;
+	gradEndColor: #000;
+	gradStartColor: #000;
+}
+
+shape
+{
+	borderAlpha: 1;
+	gradEndAlpha: 0.8;
+	gradStartAlpha: 0.7;
+	lockTintAlpha: 0.6;
+	radius: 0;
+	thickness: 100;
+}
+
+shape.style1
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+shape.style2
+{
+	borderColor: #c5c3c3;
+	borderThickness: 0;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #c5c3c3;
+}
+
+shape.style3
+{
+	borderColor: #fff808;
+	borderThickness: 0;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+shape.style4
+{
+	borderColor: #333;
+	borderThickness: 0;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+shape.style5
+{
+	borderColor: #000;
+	borderThickness: 0;
+	gradEndColor: #000;
+	gradStartColor: #000;
+}
+
+text
+{
+	padding: 1.2;
+}
+
+text.body
+{
+	color: #fff;
+	fontFamily: body;
+}
+
+text.subtitle
+{
+	color: #fff;
+	fontFamily: strong;
+}
+
+text.title
+{
+	color: #fff808;
+	fontFamily: head;
+}
+
+]]></style>
+  <hash>27119bd7</hash>
+<sync><oid>nb_sgjldupn_</oid><title>persma-project2</title><hash>27119bd7</hash></sync><config>HOS0HDrF6nWqz6JobrXUeNmzyXxCXQARdzeO13XnFVAx8TJWbjYN2CgmD8WGnq6/fbTxkKrDfX3jKN/m+Q52+5heAFYE9leS2Mwq7kk9wcF1Zj+hAHTA/uyASlg0wKXY2FwhiQY8mKMTwNypf3azYhGb5uDj6NcICjcKqPFoATchkqmXlTqu14r0vBmDwxuXPlX/ZFJckjzJNFBd5kc76iGRezlK1f6ou9u6aZHlzVAR/ni0VjAgmTmi64xoJylhoPklNP5PuCzC33uIFV9INk6lN4PeOLBN0jzuzqjZIb3pyaFgRUbZqKcydWgIBtGgIa3cbkk48auHVk99oW5WKw==</config></zuiprezi>
